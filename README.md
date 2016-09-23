@@ -5,7 +5,7 @@ Downloads music from Khinsider.
 Type in the name of an album from Khinsider.com and click the search button. A list of albums will popup. Select an album and click the select button. You have to select a song first before you can download the song, download the album or use any of the queue options.
 
 
-# Goals From Working On This Project
+# Initial Goals From Finishing This Project
 - Learn some basics of object oriented programming [x]
 - Learn how to create a gui/executable file [x]
 
